@@ -19,6 +19,7 @@ class App extends Component{
             value:e.target.value
           })
         }}/>
+        <br/>
         <InputNumber defaultValue={value} onChange={e=>{}}/>
       </div>
     )
